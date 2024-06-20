@@ -12,3 +12,4 @@ export class ListComponent {
     power: 10
   }]
 }
+'1'
